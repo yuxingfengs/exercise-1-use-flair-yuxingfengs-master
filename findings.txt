@@ -1,0 +1,14 @@
+### Results ###
+Top 10 adjectives in positive reviews are:
+great   Great   fun   good   best   awesome   amazing   Good   better   more
+
+Top 10 adjectives in negative reviews are:
+good   boring   bad   more   worst   horrible   hard   great   fun   worth
+
+Top 10 nouns in positive reviews are:
+game   games   time   fun   story   price   series   graphics   son   kids
+
+Top 10 nouns in negative reviews are:
+game   games   money   graphics   gameplay   time   play   story   way   waste
+
+### Other observations / notes (if any) ###game   games   money   graphics   gameplay   time   play   story   way   waste
